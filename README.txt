@@ -8,6 +8,8 @@ PuddleWX is a free weather tracking application with national images for IR, Sho
 GOES satellites. There is also an interactive map that can view the national mesh weather image, and view
 local doppler images.
 
+This is a part of the WeatherWX ecosystem.
+
 
 Credits
 ==================
